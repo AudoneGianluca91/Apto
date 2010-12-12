@@ -18,7 +18,7 @@ Rectangle {
         width: 150
         height: parent.height
         color: "white"
-        opacity: 0.65
+        opacity: 0.4
     }
 
     Column{
